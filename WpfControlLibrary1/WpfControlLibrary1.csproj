@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="PasswordList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PasswordList.Designer.cs">
+      <DependentUpon>PasswordList.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="PasswordList.resx">
+      <DependentUpon>PasswordList.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

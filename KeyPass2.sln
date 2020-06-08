@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyPass2", "KeyPass2\KeyPass2.csproj", "{5D9E28B4-25C2-404E-9C73-C8A5B5BE3260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D9E28B4-25C2-404E-9C73-C8A5B5BE3260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9E28B4-25C2-404E-9C73-C8A5B5BE3260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9E28B4-25C2-404E-9C73-C8A5B5BE3260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9E28B4-25C2-404E-9C73-C8A5B5BE3260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59819AB5-63F2-476A-A687-B080891E4104}
+	EndGlobalSection
+EndGlobal
